@@ -1,5 +1,6 @@
 <?php
 /* diubah tety*/
+/* diubah 2 */
 include 'config/connect.php';
 include 'action/cobafriendcode.php';
 include 'library/PHPMailerAutoload.php';
